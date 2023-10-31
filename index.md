@@ -9,9 +9,9 @@
 [Algorithm Note](#algorithm-note)
 
 ### *__Cpp Note__*
-> [CppReference About](./Cpp/grammar/about%20reference%20pass/CppReference.md)
+> [CppReference](./Cpp/grammar/about%20reference%20pass/CppReference.md)
 
-> [About Decltype](./Cpp/grammar/about%20decltype/decltype.md)
+> [Decltype](./Cpp/grammar/about%20decltype/decltype.md)
 
 >
 

@@ -1,4 +1,4 @@
-# about decltype
+# decltype
 
 > *__example cpp file in [decltype](./decltype.cpp)__*
 
