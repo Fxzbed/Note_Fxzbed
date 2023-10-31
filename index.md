@@ -11,6 +11,10 @@
 ### *__Cpp Note__*
 > [CppReference About](./Cpp/grammar/about%20reference%20pass/CppReference.md)
 
+> [About Decltype](./Cpp/grammar/about%20decltype/decltype.md)
+
+>
+
 ### *__Go Note__*
 >
 

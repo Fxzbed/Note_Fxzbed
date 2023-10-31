@@ -1,6 +1,6 @@
 # about decltype
 
-> *__example cpp file in ./decltype.cpp__*
+> *__example cpp file in [decltype](./decltype.cpp)__*
 
 ```c++
 //clang++ compiled failed example 
@@ -112,3 +112,5 @@ int main(void) {
 ```
 
 *__We can get the same output__*
+
+*__Return to [index](../../../index.md)__*

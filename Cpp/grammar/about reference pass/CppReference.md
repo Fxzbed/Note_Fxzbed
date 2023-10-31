@@ -1,6 +1,6 @@
 # this is about reference pass in cpp
 
-> example cpp file in ./CppReferenceTest.cpp
+> example cpp file in [CppReferenceTest](./CppReferenceTest_.cpp)
 
 ```c++
 #include <iostream>
