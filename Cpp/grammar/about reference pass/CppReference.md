@@ -48,8 +48,6 @@ int main(void) {
   test(i);  //we pass a left-value
   test(1);  //we pass a right-value
 
-  cout << "Test_:\n";
-
   test_(i);
   test_(1);
 
